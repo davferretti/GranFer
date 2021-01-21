@@ -1,0 +1,51 @@
+      deg : 226 speed : 2.15
+ deg : 282 speed : 3.66
+ deg : 283 speed : 3.78
+ deg : 268 speed : 3.61
+ deg : 255 speed : 2.93
+Valori minimi: 2.15   226   
+Valori massimi: 3.78  283   
+Medie: 3.2259998   262.0
+Varianza: 0.37762392 444.4      deg : 226 speed : 2.15
+ deg : 282 speed : 3.66
+ deg : 283 speed : 3.78
+ deg : 268 speed : 3.61
+ deg : 255 speed : 2.93
+Valori minimi: 2.15   226   
+Valori massimi: 3.78  283   
+Medie: 3.2259998   262.0
+Varianza: 0.37762392 444.4      deg : 226 speed : 2.15
+ deg : 282 speed : 3.66
+ deg : 283 speed : 3.78
+ deg : 268 speed : 3.61
+ deg : 255 speed : 2.93
+Valori minimi: 2.15   226   
+Valori massimi: 3.78  283   
+Medie: 3.2259998   262.0
+Varianza: 0.37762392 444.4     null deg : 283 speed : 3.78
+ deg : 268 speed : 3.61
+ deg : 255 speed : 2.93
+ deg : 250 speed : 2.94
+ deg : 261 speed : 2.87
+Valori minimi: 2.87   250   
+Valori massimi: 3.78  283   
+Medie: 3.2260003   263.0
+Varianza: 0.15010399 132.4
+      deg : 224 speed : 3.82
+ deg : 212 speed : 3.82
+ deg : 216 speed : 3.46
+ deg : 217 speed : 3.59
+ deg : 214 speed : 3.54
+Valori minimi: 3.46   212   
+Valori massimi: 3.82  224   
+Medie: 3.646   216.0
+Varianza: 0.021903992 17.0
+      deg : 224 speed : 3.82
+ deg : 212 speed : 3.82
+ deg : 216 speed : 3.46
+ deg : 217 speed : 3.59
+ deg : 214 speed : 3.54
+Valori minimi: 3.46   212   
+Valori massimi: 3.82  224   
+Medie: 3.646   216.0
+Varianza: 0.021903992 17.0
