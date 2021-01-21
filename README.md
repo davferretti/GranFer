@@ -24,4 +24,5 @@ In seguito il programma, con cadenza oraria, salva i dati relativi al vento su u
 AUTORI
 
 Ferretti Davide
+
 Granchelli Matteo
