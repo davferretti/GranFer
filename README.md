@@ -4,7 +4,7 @@ Il nostro programma consiste in un servizio meteo che data una città permette d
 Il programma utilizza delle API che permetto l'accesso a dati relativi al meteo di un città inserita dall’utente.
 Diagrammi UML
 Diagramma dei casi d’uso:
-![Alt text](relative/path/to/diagramuml.png?raw=true "diagramuml.png")
+![Alt text](/diagramuml.png?raw=true "diagramuml.png")
  
 Diagramma delle classi: 
 ![Alt text](relative/path/to/img.jpg?raw=true "Title")
