@@ -5,10 +5,10 @@ Il programma utilizza delle API che permetto l'accesso a dati relativi al meteo 
 Diagrammi UML
 
 Diagramma dei casi d’uso:
-![Alt text](/diagramuml.png?raw=true "diagramuml.png")
+![Alt text](/useCaseDiagram.png?raw=true "useCaseDiagram.png")
  
 Diagramma delle classi: 
-![Alt text](/useCaseDiagram.png?raw=true "useCaseDiagram.png")
+![Alt text](/diagramuml.png?raw=true "diagramuml.png")
 
 
 
