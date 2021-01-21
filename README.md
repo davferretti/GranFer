@@ -13,11 +13,11 @@ Diagramma delle classi:
 
 
 Diagramma delle sequenze:
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](/diagrammaSequenze1.png?raw=true "diagrammaSequenze1.png")
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](/diagrammaSequenze2.png?raw=true "diagrammaSequenze2.png")
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](/diagrammaSequenze3.png?raw=true "diagrammaSequenze3.png")
  
  
  
