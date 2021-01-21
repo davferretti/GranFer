@@ -3,11 +3,12 @@ Descrizione
 Il nostro programma consiste in un servizio meteo che data una città permette di visualizzare informazioni attuali relative al vento (velocità e direzione), una previsione futura ogni 3 ore e alcune statistiche. Le statistiche comprendono i valori minimi e massimi della velocità e direzione del vento; la media e la varianza degli stessi.
 Il programma utilizza delle API che permetto l'accesso a dati relativi al meteo di un città inserita dall’utente.
 Diagrammi UML
+
 Diagramma dei casi d’uso:
 ![Alt text](/diagramuml.png?raw=true "diagramuml.png")
  
 Diagramma delle classi: 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](/useCaseDiagram.png?raw=true "useCaseDiagram.png")
 
 
 
