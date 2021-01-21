@@ -4,18 +4,22 @@ Il nostro programma consiste in un servizio meteo che data una città permette d
 Il programma utilizza delle API che permetto l'accesso a dati relativi al meteo di un città inserita dall’utente.
 Diagrammi UML
 Diagramma dei casi d’uso:
+![Alt text](relative/path/to/img.jpg?raw=true "diagramuml.png")
  
 Diagramma delle classi: 
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 
 
 
 Diagramma delle sequenze:
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
  
  
  
-
-
-
 Come funziona
 
 L'utente da in input il nome di una città, questo viene trascritto in un file .json presente all'interno del progetto. Il programma prende dal file il nome della città che viene utilizzato per prendere informazioni dal server OpenWeather tramite l'API e crea un file formato json presente all'interno del progetto. Successivamente attraverso l'utilizzo di oggetti json e strutture dati (map) il programma estrae i dati relativi al vento in cui ne calcola le statistiche e stampa il tutto con il metodo Spring Boot GET.
